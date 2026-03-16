@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>온기를 지닌</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Helvetica, Arial;
+background:white;
+color:black;
+}
+
+.container{
+width:70%;
+margin:auto;
+padding:100px 0;
+}
+
+img{
+width:100%;
+margin-bottom:50px;
+}
+
+h1{
+font-size:36px;
+margin-bottom:10px;
+}
+
+.info{
+color:#666;
+margin-bottom:30px;
+}
+
+a{
+color:black;
+text-decoration:none;
+font-size:16px;
+}
+
+a:hover{
+opacity:0.5;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<a href="javascript:history.back()">← Back</a>
+
+<img src="images/work1.jpg">
+
+<h1>온기를 지닌</h1>
+
+<p class="info">
+2026<br>
+Acrylic on canvas<br>
+90.9 × 65.1cm
+</p>
+
+<p>
+&lt;창문&gt; 시리즈
+</p>
+
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>빛이 먼저 들어온 자리</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Helvetica, Arial;
+background:white;
+color:black;
+}
+
+.container{
+width:70%;
+margin:auto;
+padding:100px 0;
+}
+
+img{
+width:100%;
+margin-bottom:50px;
+}
+
+h1{
+font-size:36px;
+margin-bottom:10px;
+}
+
+.info{
+color:#666;
+margin-bottom:30px;
+}
+
+a{
+color:black;
+text-decoration:none;
+font-size:16px;
+}
+
+a:hover{
+opacity:0.5;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<a href="javascript:history.back()">← Back</a>
+
+<img src="images/work2.jpg">
+
+<h1>빛이 먼저 들어온 자리</h1>
+
+<p class="info">
+2026<br>
+Acrylic on canvas<br>
+90.9*65.1cm
+</p>
+
+<p>
+&lt;창문&gt; 시리즈
+</p>
+
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>바람</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Helvetica, Arial;
+background:white;
+color:black;
+}
+
+.container{
+width:70%;
+margin:auto;
+padding:100px 0;
+}
+
+img{
+width:100%;
+margin-bottom:50px;
+}
+
+h1{
+font-size:36px;
+margin-bottom:10px;
+}
+
+.info{
+color:#666;
+margin-bottom:30px;
+}
+
+a{
+color:black;
+text-decoration:none;
+font-size:16px;
+}
+
+a:hover{
+opacity:0.5;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<a href="javascript:history.back()">← Back</a>
+
+<img src="images/work3.jpg">
+
+<h1>바람</h1>
+
+<p class="info">
+2026<br>
+Acrylic on canvas<br>
+90.9*65.1cm
+</p>
+
+<p>
+&lt;창문&gt; 시리즈
+</p>
+
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>창문은 말이 없다</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Helvetica, Arial;
+background:white;
+color:black;
+}
+
+.container{
+width:70%;
+margin:auto;
+padding:100px 0;
+}
+
+img{
+width:100%;
+margin-bottom:50px;
+}
+
+h1{
+font-size:36px;
+margin-bottom:10px;
+}
+
+.info{
+color:#666;
+margin-bottom:30px;
+}
+
+a{
+color:black;
+text-decoration:none;
+font-size:16px;
+}
+
+a:hover{
+opacity:0.5;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<a href="javascript:history.back()">← Back</a>
+
+<img src="images/work5.jpg">
+
+<h1>창문은 말이 없다</h1>
+
+<p class="info">
+2026<br>
+Acrylic on canvas<br>
+90.9*65.1cm
+</p>
+
+<p>
+&lt;창문&gt; 시리즈
+</p>
+
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>머문 시간</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Helvetica, Arial;
+background:white;
+color:black;
+}
+
+.container{
+width:70%;
+margin:auto;
+padding:100px 0;
+}
+
+img{
+width:100%;
+margin-bottom:50px;
+}
+
+h1{
+font-size:36px;
+margin-bottom:10px;
+}
+
+.info{
+color:#666;
+margin-bottom:30px;
+}
+
+a{
+color:black;
+text-decoration:none;
+font-size:16px;
+}
+
+a:hover{
+opacity:0.5;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<a href="javascript:history.back()">← Back</a>
+
+<img src="images/work6.jpg">
+
+<h1>머문 시간</h1>
+
+<p class="info">
+2026<br>
+Acrylic on canvas<br>
+116.8*80.3cm
+</p>
+
+<p>
+&lt;창문&gt; 시리즈
+</p>
+
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>Yim Kwanghyun</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Helvetica, Arial;
+background:white;
+color:black;
+}
+
+header{
+text-align:center;
+padding:120px 20px;
+}
+
+header h1{
+font-size:44px;
+letter-spacing:2px;
+}
+
+nav{
+text-align:center;
+margin-bottom:80px;
+}
+
+nav a{
+margin:0 20px;
+text-decoration:none;
+color:black;
+font-size:18px;
+}
+
+nav a:hover{
+opacity:0.4;
+}
+
+.hero{
+width:100%;
+height:70vh;
+overflow:hidden;
+}
+
+.hero img{
+width:100%;
+height:100%;
+object-fit:cover;
+}
+
+section{
+padding:100px 15%;
+}
+
+.gallery{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:40px;
+}
+
+.work img{
+width:100%;
+transition:0.4s;
+}
+
+.work img:hover{
+transform:scale(1.05);
+}
+
+footer{
+text-align:center;
+padding:60px;
+font-size:13px;
+color:gray;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Yim Kwanghyun</h1>
+<p>Artist</p>
+</header>
+
+<nav>
+<a href="#works">Works</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<div class="hero">
+<img src="images/work4.jpg">
+</div>
+
+<section id="works">
+
+<h2>Works</h2>
+
+<div class="gallery">
+
+<div class="work">
+<a href="work1.html">
+<img src="images/work1.jpg">
+</a>
+<p>
+온기를 지닌 2026<br>
+Acrylic on canvas, 90.9*65.1cm
+</p>
+</div>
+
+<div class="work">
+<a href="work2.html">
+<img src="images/work2.jpg">
+</a>
+<p>
+빛이 먼저 들어온 자리 2026<br>
+Acrylic on canvas, 90.9*65.1cm
+</p>
+</div>
+
+<div class="work">
+<a href="work3.html">
+<img src="images/work3.jpg">
+</a>
+<p>
+바람 2025<br>
+Acrylic on canvas, 90.9*65.1cm
+</p>
+</div>
+
+<div class="work">
+<a href="work5.html">
+<img src="images/work5.jpg">
+</a>
+<p>
+창문은 말이 없다 2026<br>
+Acrylic on canvas, 90.9*65.1cm
+</p>
+</div>
+
+<div class="work">
+<a href="work6.html">
+<img src="images/work6.jpg">
+</a>
+<p>
+머문 시간 2026<br>
+Acrylic on canvas, 116.8*80.3cm
+</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2>About</h2>
+
+<p>
+안녕하세요. 저는 ‘쉼’을 다양한 방식으로 탐구하고 표현하는 작업을 하고 있습니다.
+제가 생각하는 쉼은 단순한 휴식이 아니라 존재가 스스로의 리듬으로 호흡하기 위한
+내면적 순간이라고 생각합니다.
+</p>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email : kwanghyunyim@naver.com</p>
+<p>Instagram : @yimkwanghyun</p>
+
+</section>
+
+<footer>
+<p>© Yim Kwanghyun</p>
+</footer>
+
+</body>
+</html>
